@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # agenda_part1
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# ProyectoFlutterAgenda
+Este es un proyecto para el curso de flutter, en este caso una agenda para las tareas que uno puede llegar a tener en la universidad,  colegio o instituto
+>>>>>>> b3baeeb54ac190e6a94415dff6a20a9a317ddabd
